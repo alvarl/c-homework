@@ -1,0 +1,9 @@
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\bin\Debug\HelloWorldWindows.exe
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\bin\Debug\HelloWorldWindows.pdb
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\HelloWorldWindows.Form1.resources
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\HelloWorldWindows.Properties.Resources.resources
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\HelloWorldWindows.exe
+c:\Projects\csharp\HelloWorld\HelloWorldWindows\obj\x86\Debug\HelloWorldWindows.pdb

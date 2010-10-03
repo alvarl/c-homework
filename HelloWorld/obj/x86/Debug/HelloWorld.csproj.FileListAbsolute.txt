@@ -1,0 +1,7 @@
+c:\Projects\csharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\Projects\csharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\Projects\csharp\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\csharp\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+c:\Projects\csharp\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+c:\Projects\csharp\HelloWorld\HelloWorld\bin\Debug\RatesComponent.dll
+c:\Projects\csharp\HelloWorld\HelloWorld\bin\Debug\RatesComponent.pdb

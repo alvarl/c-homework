@@ -1,0 +1,5 @@
+c:\Projects\csharp\HelloWorld\RatesComponent\bin\Debug\RatesComponent.dll
+c:\Projects\csharp\HelloWorld\RatesComponent\bin\Debug\RatesComponent.pdb
+c:\Projects\csharp\HelloWorld\RatesComponent\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\csharp\HelloWorld\RatesComponent\obj\Debug\RatesComponent.dll
+c:\Projects\csharp\HelloWorld\RatesComponent\obj\Debug\RatesComponent.pdb
